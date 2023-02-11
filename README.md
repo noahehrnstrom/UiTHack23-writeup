@@ -1,5 +1,5 @@
 # UiTHack23-writeup
-Writeup for the two least solved tasks I solved at UiTHack23.
+Writeup for two tasks I solved at UiTHack23.
 
 Dionysios
 
